@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Variant_Alone_Data_FIle 2</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>70e56b0f-750e-4557-9a13-1f47ab6abfd3</dataFileGUID>
+   <dataSourceUrl>D:\BABY_CATEGORY_XML\FINAL RECORD\INBOUND\BABY CATEGORY DATA SHEET\11-Sep-2020\VariantAlone 2.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Variant</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

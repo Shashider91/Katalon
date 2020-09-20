@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Basic_Check-Search-Request-Health-TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5bcf4c1-4bca-4e2c-9ca6-44bd5fc8adee</testCaseGuid>
+   <variable>
+      <defaultValue>'TVITEM HEALTH'</defaultValue>
+      <description></description>
+      <id>14673294-931b-4a50-842c-fb054f740436</id>
+      <masked>false</masked>
+      <name>B_Name</name>
+   </variable>
+</TestCaseEntity>

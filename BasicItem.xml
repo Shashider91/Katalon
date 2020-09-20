@@ -1,0 +1,344 @@
+<STEP-ProductInformation ContextID="en-NZ" WorkspaceID="Main" UseContextLocale="false">
+	<Products>
+		<Product UserTypeID="PPH_BasicItem" ParentID="PPH_L4_105709">
+			<Name>
+				Sampleeee 1
+			</Name>
+			<ClassificationReference Type="Product_To_BrandHierarchy">
+				<KeyValue KeyID="KEY_Brand">
+					ANTHEM
+				</KeyValue>
+			</ClassificationReference>
+			<ClassificationReference Type="Product_To_MerchandiseHierarchy" ClassificationID="MERCH_L5_1308" />
+			<ClassificationCrossReference Type="WSLOnlineDetails" ClassificationID="WSLHierarchy">
+				<MetaData>
+					<Value AttributeID="AT_ProductDescriptionWebstore">
+						This is a sample example
+					</Value>
+					<Value AttributeID="AT_OnlineDeliveryMinimumDays">
+						10
+					</Value>
+					<Value AttributeID="AT_SoldOnlineIndicator" ID="Y" />
+					<Value AttributeID="AT_OnlineDeliveryMaximumDays">
+						11
+					</Value>
+					<Value AttributeID="AT_WebEnabled" ID="Y" />
+					<Value AttributeID="AT_OnlineDeliverySizeOverride" ID="ST" />
+					<Value AttributeID="AT_OnlineDeliverySizeDefault" ID="ST" />
+					<Value AttributeID="AT_WebItemSku">
+						1204
+					</Value>
+					<Value AttributeID="AT_WebExpiryDate">
+						29-Jun-2020
+					</Value>
+					<Value AttributeID="AT_FeaturesAndBenefits">
+						This is a sample example
+					</Value>
+					<Value AttributeID="AT_ClickAndCollectFlag" ID="O" />
+					<Value AttributeID="AT_WebClearanceIndicator" ID="Y" />
+					<Value AttributeID="AT_WebEffectiveDate">
+						29-Jun-2020
+					</Value>
+				</MetaData>
+			</ClassificationCrossReference>
+			<ClassificationCrossReference Type="TWLOnlineDetails" ClassificationID="TWLHierarchy">
+				<MetaData>
+					<Value AttributeID="AT_ProductDescriptionWebstore">
+						This is a sample example
+					</Value>
+					<Value AttributeID="AT_OnlineDeliveryMinimumDays">
+						10
+					</Value>
+					<Value AttributeID="AT_SoldOnlineIndicator" ID="Y" />
+					<Value AttributeID="AT_OnlineDeliveryMaximumDays">
+						11
+					</Value>
+					<Value AttributeID="AT_WebEnabled" ID="Y" />
+					<Value AttributeID="AT_OnlineDeliverySizeOverride" ID="ST" />
+					<Value AttributeID="AT_OnlineDeliverySizeDefault" ID="ST" />
+					<Value AttributeID="AT_WebItemSku">
+						1204
+					</Value>
+					<Value AttributeID="AT_WebExpiryDate">
+						29-Jun-2020
+					</Value>
+					<Value AttributeID="AT_FeaturesAndBenefits">
+						This is a sample example
+					</Value>
+					<Value AttributeID="AT_ClickAndCollectFlag" ID="O" />
+					<Value AttributeID="AT_WebClearanceIndicator" ID="Y" />
+					<Value AttributeID="AT_WebEffectiveDate">
+						29-Jun-2020
+					</Value>
+				</MetaData>
+			</ClassificationCrossReference>
+			<Values>
+				<Value AttributeID="AT_ProductName">
+					Sample Product
+				</Value>
+				<Value AttributeID="AT_ProductShortName">
+					Royal Enfielh
+				</Value>
+				<Value AttributeID="AT_DangerousGoodsTransportIndicator" ID="N" />
+				<Value AttributeID="AT_InStoreEndDate">
+					01-dec-2020
+				</Value>
+				<Value AttributeID="AT_InStoreStartDate">
+					28-oct-2020
+				</Value>
+				<Value AttributeID="AT_ParallelImportCode" ID="" />
+				<Value AttributeID="AT_PreOrderAvailable" ID="" />
+				<Value AttributeID="AT_ProductImageURLIndicator" ID="" />
+				<Value AttributeID="AT_SupplierCode">
+					1122
+				</Value>
+				<Value AttributeID="AT_HighRiskIndicator" ID="" />
+				<Value AttributeID="AT_PackagingFormat" ID="General" />
+				<Value AttributeID="AT_RecallStatus" ID="STD RECALL" />
+				<Value AttributeID="AT_ProductStatus" ID="Inactive" />
+				<Value AttributeID="AT_ShippingProductDepth\" UnitID="unece.unit.MMT">
+				</Value>
+				<Value AttributeID="AT_ShippingProductHeight\" UnitID="unece.unit.MMT">
+				</Value>
+				<Value AttributeID="AT_ShippingProductVolume\" UnitID="unece.unit.MTQ">
+				</Value>
+				<Value AttributeID="AT_ShippingProductWeight\" UnitID="unece.unit.KGM">
+				</Value>
+				<Value AttributeID="AT_ShippingProductWidth\" UnitID="unece.unit.MMT">
+				</Value>
+				<Value AttributeID="AT_TUIProductKey">
+					560079
+				</Value>
+				<Value AttributeID="AT_TUIItemKey">
+					15755
+				</Value>
+				<Value AttributeID="AT_AssetImageURL">
+					https://www.thewarehouse.co.nz/dw/image/v2/AAWO_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9f73eb43/ad/d8/R2645319_30.jpg
+				</Value>
+				<MultiValue AttributeID="AT_AssemblyAttribute">
+					<Value ID="ASMREQ" />
+				</MultiValue>
+				<Value AttributeID="AT_BestBeforeDateIndicator" ID="TBD" />
+				<Value AttributeID="AT_BetterCottonInitiative" ID="" />
+				<MultiValue AttributeID="AT_Character">
+					<Value ID="Christmas" />
+				</MultiValue>
+				<Value AttributeID="AT_Colour" ID="BRN M" />
+				<Value AttributeID="AT_ColourFamily" ID="ORN" />
+				<Value AttributeID="AT_ForestStewardshipCouncil" ID="Y" />
+				<Value AttributeID="AT_Gender" ID="YOUTH" />
+				<MultiValue AttributeID="AT_License">
+					<Value ID="ANGRYBIRDS" />
+				</MultiValue>
+				<Value AttributeID="AT_ReducetoSellIndicator" ID="N" />
+				<Value AttributeID="AT_Season" ID="TS" />
+				<Value AttributeID="AT_ShelfLife">
+					300
+				</Value>
+				<Value AttributeID="AT_Size" ID="5" />
+				<Value AttributeID="AT_SchooltexProductType">
+					RC
+				</Value>
+				<Value AttributeID="AT_FabricContent">
+					Polyster123
+				</Value>
+				<MultiValue AttributeID="AT_LegalAgeRestriction">
+					<Value ID="RESTCTD 15" />
+				</MultiValue>
+				<Value AttributeID="AT_GSTExempt" ID="N" />
+				<Value AttributeID="AT_SafetyCheck" ID="TBD" />
+				<Value AttributeID="AT_ArtistorAuthor">
+					This is a sample example
+				</Value>
+				<Value AttributeID="AT_BookGenre" ID="Y11" />
+				<Value AttributeID="AT_MultimediaPackSize">
+					This is a sample example
+				</Value>
+				<Value AttributeID="AT_NewRelease" ID="N" />
+				<Value AttributeID="AT_NewReleaseExpiryDate">
+					30-June-2020
+				</Value>
+				<Value AttributeID="AT_CalculatorType" ID="SCIENTIFIC" />
+				<Value AttributeID="AT_DVDGenre" ID="DRAMA" />
+				<Value AttributeID="AT_GameGenre" ID="PLATFORM" />
+				<Value AttributeID="AT_GamingSoftwareType" ID="NDS" />
+				<Value AttributeID="AT_HeadphoneType" ID="TBD" />
+				<Value AttributeID="AT_HPSureSupplySKUCode">
+					1234
+				</Value>
+				<Value AttributeID="AT_iPhoneModel">
+					5698
+				</Value>
+				<Value AttributeID="AT_MusicGenre" ID="COUNTRY" />
+				<Value AttributeID="AT_OperatingSystem" ID="CHROME" />
+				<MultiValue AttributeID="AT_PrinterType">
+					<Value ID="TBD" />
+				</MultiValue>
+				<Value AttributeID="AT_BedSize" ID="BASSINETTE" />
+				<Value AttributeID="AT_BroadSpectrumCover" ID="N" />
+				<MultiValue AttributeID="AT_ChristmasDecorationType">
+					<Value ID="BAUBLE" />
+				</MultiValue>
+				<MultiValue AttributeID="AT_ChristmasDesign">
+					<Value ID="ANGEL" />
+				</MultiValue>
+				<Value AttributeID="AT_ChristmasProduct" ID="CHRISTMAS APPAREL" />
+				<Value AttributeID="AT_GiftOccasion" ID="ANNI" />
+				<Value AttributeID="AT_GiftingRecipient" ID="ACTIVE MUM" />
+				<Value AttributeID="AT_ProductDepth\" UnitID="unece.unit.MMT">
+					12 mm
+				</Value>
+				<Value AttributeID="AT_ProductDiameter\" UnitID="unece.unit.MMT">
+					12 mm
+				</Value>
+				<Value AttributeID="AT_ProductHeight\" UnitID="unece.unit.MMT">
+					12 mm
+				</Value>
+				<Value AttributeID="AT_ProductVolume\" UnitID="unece.unit.MTQ">
+					12 ml
+				</Value>
+				<Value AttributeID="AT_ProductWeight\" UnitID="unece.unit.KGM">
+					12 g
+				</Value>
+				<Value AttributeID="AT_ProductWidth\" UnitID="unece.unit.MMT">
+					12 mm
+				</Value>
+				<Value AttributeID="AT_ProductLength\" UnitID="unece.unit.MMT">
+					12 mm
+				</Value>
+				<MultiValue AttributeID="AT_ProductType">
+					<Value ID="Baby Cereals" />
+				</MultiValue>
+				<Value AttributeID="AT_SunProtectionFactor" ID="SPF10" />
+				<Value AttributeID="AT_WarrantyPeriod" ID="4YR" />
+				<Value AttributeID="AT_WaterResistantCover" ID="N" />
+				<Value AttributeID="AT_DeliveryDate">
+					29-Jun-2020
+				</Value>
+				<Value AttributeID="AT_DeliveryLocation" ID="AUCKLAND" />
+				<Value AttributeID="AT_HalloweenProduct" ID="HALLOWEEN CONFECTIONERY" />
+				<MultiValue AttributeID="AT_PetType">
+					<Value ID="CAT OR KITTEN" />
+				</MultiValue>
+				<Value AttributeID="AT_CandleType" ID="TBD" />
+				<Value AttributeID="AT_ChairType" ID="BEAN BAG" />
+				<MultiValue AttributeID="AT_CutleryType">
+					<Value ID="CHEESE KNIFE" />
+				</MultiValue>
+				<MultiValue AttributeID="AT_DeskType">
+					<Value ID="CONFERENCE END" />
+				</MultiValue>
+				<MultiValue AttributeID="AT_DimensionalShape">
+					<Value ID="CIRCLE" />
+				</MultiValue>
+				<Value AttributeID="AT_EnergyEfficiencyRating" ID="1 STAR ENERGY EFFICIENCY RATING" />
+				<Value AttributeID="AT_Ergonomic" ID="N" />
+				<MultiValue AttributeID="AT_FillType">
+					<Value ID="COTTON" />
+				</MultiValue>
+				<Value AttributeID="AT_FurnitureStyle" ID="BEDFORD" />
+				<Value AttributeID="AT_HeatingorCooling" ID="BOTH" />
+				<MultiValue AttributeID="AT_HomeFragrance">
+					<Value ID="BIRCHWOOD" />
+				</MultiValue>
+				<Value AttributeID="AT_Mattresstype" ID="TBD" />
+				<Value AttributeID="AT_PrintIndicator" ID="TBD" />
+				<MultiValue AttributeID="AT_PrintorPattern">
+					<Value ID="ABSTRACT" />
+				</MultiValue>
+				<Value AttributeID="AT_RugType" ID="AREA RUG" />
+				\
+				<Value AttributeID="AT_TowelType" ID="BATH" />
+				<Value AttributeID="AT_Usesuitability" ID="BEDROOM" />
+				<Value AttributeID="AT_WaterEfficiencyRating" ID="1 STAR WATER EFFICIENCY RATING" />
+				<Value AttributeID="AT_AdditivesType" ID="TBD" />
+				<Value AttributeID="AT_CleaningAccessoryType" ID="BRUSH" />
+				<Value AttributeID="AT_CoverType" ID="CAR SEAT" />
+				<Value AttributeID="AT_EngineOil Type" ID="TBD" />
+				<Value AttributeID="AT_GPS" ID="N" />
+				<MultiValue AttributeID="AT_OutdoorFurnitureMaterial">
+					<Value ID="ALUMINIMUM" />
+				</MultiValue>
+				<Value AttributeID="AT_PaperorCardType" ID="INKJET" />
+				<Value AttributeID="AT_PaperSize" ID="A0" />
+				<Value AttributeID="AT_PaperWeight" ID="80GSM" />
+				<Value AttributeID="AT_RollType" ID="ADDING MACHINE" />
+				<MultiValue AttributeID="AT_ActivityUse">
+					<Value ID="BASKETBALL" />
+				</MultiValue>
+				<Value AttributeID="AT_ArtPadType" ID="ACRYLIC PAD" />
+				<Value AttributeID="AT_BookCoverType" ID="HARD" />
+				<Value AttributeID="AT_ClipType" ID="BULLDOG CLIPS" />
+				<Value AttributeID="AT_EnvelopeType" ID="BOARD" />
+				<MultiValue AttributeID="AT_ExerciseBookLineType">
+					<Value ID="7 mm" />
+				</MultiValue>
+				<Value AttributeID="AT_LabelType" ID="ADDRESS LABEL" />
+				<MultiValue AttributeID="AT_Material">
+					<Value ID="CARDBOARD" />
+				</MultiValue>
+				<Value AttributeID="AT_PackSize\" UnitID="unece.unit.PK">
+					ACRYLIC &amp; WATERCOLOUR BRUSHES
+				</Value>
+				<Value AttributeID="AT_PaintBrushType" ID="ACRYLIC &amp; WATERCOLOUR BRUSHES" />
+				<Value AttributeID="AT_PaintType" ID="ACRYLIC" />
+				<Value AttributeID="AT_PenType" ID="BALLPOINT" />
+				<Value AttributeID="AT_PencilType" ID="2B" />
+				<Value AttributeID="AT_ReportCoverType" ID="CLICK IN REPORT COVERS" />
+				<Value AttributeID="AT_RingBinderType" ID="2 D RINGBINDERS" />
+				<MultiValue AttributeID="AT_SchoolYear">
+					<Value ID="${B_AT_SchoolYear" />
+				</MultiValue>
+				<Value AttributeID="AT_SprialBound" ID="Y" />
+				<Value AttributeID="AT_StampType" ID="DATE STAMPS" />
+				<Value AttributeID="AT_StaplerType" ID="FULL STRIP STAPLERS" />
+				<Value AttributeID="AT_StationeryBookType" ID="ADDRESS BOOKS" />
+				<MultiValue AttributeID="AT_STEAMSubject">
+					<Value ID="ARTS &amp; CRAFTS" />
+				</MultiValue>
+				<MultiValue AttributeID="AT_Subject">
+					<Value ID="ACCOUNTING" />
+				</MultiValue>
+				<Value AttributeID="AT_TapeType" ID="CLOTH TAPE" />
+				<Value AttributeID="AT_WhiteboardType" ID="ELECTRONIC WHITEBOARDS" />
+				<MultiValue AttributeID="AT_CableConnections">
+					<Value ID="2 PIN PLUG FEMALE" />
+				</MultiValue>
+				<MultiValue AttributeID="AT_ConnectionPort">
+					<Value ID="TWG Technology/3.5mm Audio Jack" />
+				</MultiValue>
+				<Value AttributeID="AT_DeviceType" ID="CHROMEBOOK" />
+				<Value AttributeID="AT_IMEIRequired" ID="N" />
+				<MultiValue AttributeID="AT_Ink&amp;TonerColours">
+					<Value ID="CYAN" />
+				</MultiValue>
+				<Value AttributeID="AT_ScreenSize">
+					14
+				</Value>
+				<Value AttributeID="AT_ScreenType" ID="4K TVS" />
+				<MultiValue AttributeID="AT_TelcoNetwork">
+					<Value ID="2 DEGREES" />
+				</MultiValue>
+				<Value AttributeID="AT_TouchScreen" ID="TBD" />
+				<Value AttributeID="AT_Age" ID="1YR" />
+				<Value AttributeID="AT_ToyType" ID="ACTION &amp; ADVENTURE" />
+			</Values>
+			<DataContainers>
+				<MultiDataContainer Type="DC_BarcodeType">
+					<DataContainer ID="560079_1">
+						<Values>
+							<Value AttributeID="AT_ProductBarcode">
+								\2877889409365
+							</Value>
+							<Value AttributeID="AT_ProductBarcodeNumber">
+								\6435512199265
+							</Value>
+							<Value AttributeID="AT_BarcodeFormat" ID="EAN" />
+							<Value AttributeID="AT_BarcodeType" ID="P" />
+						</Values>
+					</DataContainer>
+				</MultiDataContainer>
+			</DataContainers>
+		</Product>
+	</Products>
+</STEP-ProductInformation>

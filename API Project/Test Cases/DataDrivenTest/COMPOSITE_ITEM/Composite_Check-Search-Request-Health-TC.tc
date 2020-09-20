@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Composite_Check-Search-Request-Health-TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e474a693-2029-4811-8615-9ca8b79d6703</testCaseGuid>
+   <variable>
+      <defaultValue>'AIRCRAFT GURU'</defaultValue>
+      <description></description>
+      <id>1c5996d9-fcd4-4383-9524-c3fbf65013f3</id>
+      <masked>false</masked>
+      <name>C_Name</name>
+   </variable>
+</TestCaseEntity>

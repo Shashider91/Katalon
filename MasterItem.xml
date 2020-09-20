@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation  ContextID="en-NZ" WorkspaceID="Main" UseContextLocale="false">
+    <Products>
+        <Product UserTypeID="m" ParentID="">
+            <Name>Barley Test 6</Name>
+            <ClassificationReference Type="Product_To_BrandHierarchy">
+                <KeyValue KeyID="KEY_Brand">YO</KeyValue>
+            </ClassificationReference>
+            <Values>
+                <!-- Start Core Attributes -->
+                <Value AttributeID="AT_ProductName"></Value>
+                <Value AttributeID="AT_ProductShortName"></Value>
+                <Value AttributeID="AT_DangerousGoodsTransportIndicator" ID=""/>
+                <Value AttributeID="AT_InStoreEndDate"></Value>
+                <Value AttributeID="AT_InStoreStartDate"></Value>
+                <Value AttributeID="AT_ParallelImportCode" ID=""/>
+                <Value AttributeID="AT_PreOrderAvailable" ID=""/>
+                <Value AttributeID="AT_ProductImageURLIndicator" ID=""/>
+                <Value AttributeID="AT_SupplierCode"></Value>
+                <Value AttributeID="AT_HighRiskIndicator" ID=""/>
+                <Value AttributeID="AT_PackagingFormat" ID=""/>
+                <Value AttributeID="AT_RecallStatus" ID=""/>
+                <Value AttributeID="AT_ProductStatus" ID=""/>
+                <Value AttributeID="AT_ShippingProductDepth" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_ShippingProductHeight" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_ShippingProductVolume" UnitID="unece.unit.MTQ"></Value>
+                <Value AttributeID="AT_ShippingProductWeight" UnitID="unece.unit.KGM"></Value>
+                <Value AttributeID="AT_ShippingProductWidth" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_TUIProductKey"></Value>
+                <Value AttributeID="AT_TUIItemKey"></Value>
+                <Value AttributeID="AT_AssetImageURL"></Value>
+                <!-- End Core Attributes -->
+                <!-- Start Category Specific TUI Atributes -->
+                <MultiValue AttributeID="AT_AssemblyAttribute">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_BestBeforeDateIndicator" ID=""/>
+                <Value AttributeID="AT_BetterCottonInitiative" ID=""/>
+                <Value AttributeID="AT_ForestStewardshipCouncil" ID=""/>
+                <Value AttributeID="AT_Gender" ID=""/>
+                <Value AttributeID="AT_ReducetoSellIndicator" ID=""/>
+                <Value AttributeID="AT_Season" ID=""/>
+                <Value AttributeID="AT_ShelfLife"></Value>
+                <Value AttributeID="AT_LegalAgeRestriction" ID=""/>
+                <Value AttributeID="AT_GSTExempt" ID=""/>
+                <Value AttributeID="AT_ArtistorAuthor"></Value>
+                <Value AttributeID="AT_BookGenre" ID=""/>
+                <Value AttributeID="AT_MultimediaPackSize"></Value>
+                <Value AttributeID="AT_NewRelease" ID=""/>
+                <Value AttributeID="AT_NewReleaseExpiryDate"></Value>
+                <Value AttributeID="AT_CalculatorType" ID=""/>
+                <Value AttributeID="AT_DVDGenre" ID=""/>
+                <Value AttributeID="AT_GameGenre" ID=""/>
+                <Value AttributeID="AT_GamingSoftwareType" ID=""/>
+                <Value AttributeID="AT_HPSureSupplySKUCode"></Value>
+                <Value AttributeID="AT_iPhoneModel"></Value>
+                <Value AttributeID="AT_MusicGenre" ID=""/>
+                <Value AttributeID="AT_OperatingSystem" ID=""/>
+                <MultiValue AttributeID="AT_PrinterType">
+                    <Value ID=""/>
+                </MultiValue>
+                <!-- End Category Specific TUI Atributes -->
+                <!-- Start Category Specific PIM Atributes -->
+                <Value AttributeID="AT_BroadSpectrumCover" ID=""/>
+                <MultiValue AttributeID="AT_GiftOccasion">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_GiftingRecipient">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_SunProtectionFactor" ID=""/>
+                <Value AttributeID="AT_WarrantyPeriod" ID=""/>
+                <Value AttributeID="AT_WaterResistantCover" ID=""/>
+                <Value AttributeID="AT_CandleType" ID=""/>
+                <Value AttributeID="AT_ChairType" ID=""/>
+                <MultiValue AttributeID="AT_CutleryType">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_DeskType">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_DimensionalShape">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_EnergyEfficiencyRating" ID=""/>
+                <Value AttributeID="AT_Ergonomic" ID=""/>
+                <MultiValue AttributeID="AT_FillType">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_FurnitureStyle" ID=""/>
+                <Value AttributeID="AT_HeatingorCooling" ID=""/>
+                <Value AttributeID="AT_Mattresstype" ID=""/>
+                <Value AttributeID="AT_Table&ChairSettings" ID=""/>
+                <MultiValue AttributeID="AT_Usesuitability">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_WaterEfficiencyRating" ID=""/>
+                <Value AttributeID="AT_AdditivesType" ID=""/>
+                <Value AttributeID="AT_CleaningAccessoryType" ID=""/>
+                <Value AttributeID="AT_CoverType" ID=""/>
+                <Value AttributeID="AT_EngineOil Type" ID=""/> <!--****-->
+                <Value AttributeID="AT_GPS" ID=""/>
+                <MultiValue AttributeID="AT_OutdoorFurnitureMaterial">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_ArtPadType" ID=""/>
+                <Value AttributeID="AT_BookCoverType" ID=""/>
+                <Value AttributeID="AT_ClipType" ID=""/>
+                <Value AttributeID="AT_EnvelopeType" ID=""/>
+                <MultiValue AttributeID="AT_ExerciseBookLineType">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_LabelType" ID=""/>
+                <MultiValue AttributeID="AT_Material">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_PackSize"></Value>
+                <Value AttributeID="AT_PaintBrushType" ID=""/>
+                <Value AttributeID="AT_PaintType" ID=""/>
+                <Value AttributeID="AT_PenType" ID=""/>
+                <Value AttributeID="AT_PencilType" ID=""/>
+                <Value AttributeID="AT_ReportCoverType" ID=""/>
+                <Value AttributeID="AT_RingBinderType" ID=""/>
+                <MultiValue AttributeID="AT_SchoolYear">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_SprialBound" ID=""/>
+                <Value AttributeID="AT_StampType" ID=""/>
+                <Value AttributeID="AT_StaplerType" ID=""/>
+                <Value AttributeID="AT_StationeryBookType" ID=""/>
+                <MultiValue AttributeID="AT_STEAMSubject">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_Subject">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_TapeType" ID=""/>
+                <Value AttributeID="AT_WhiteboardType" ID=""/>
+                <MultiValue AttributeID="AT_ConnectionPort">
+                    <Value ID=""/>
+                </MultiValue>
+                <Value AttributeID="AT_DeviceType" ID=""/>
+                <Value AttributeID="AT_IMEIRequired" ID=""/>
+                <Value AttributeID="AT_ScreenSize"></Value>
+                <Value AttributeID="AT_ScreenType" ID=""/>
+                <Value AttributeID="AT_TouchScreen" ID=""/>
+                <Value AttributeID="AT_ToyType" ID=""/>
+                <!-- End Category Specific PIM Atributes -->
+            </Values>
+            <DataContainers>
+                <MultiDataContainer Type="DC_BarcodeType">
+                    <DataContainer ID="">
+                        <Values>
+                            <Value AttributeID="AT_ProductBarcode"></Value>
+                            <Value AttributeID="AT_BarcodeType" ID="" />
+                            <Value AttributeID="AT_ProductBarcodeNumber"></Value>
+                            <Value AttributeID="AT_BarcodeFormat" ID="" />
+                        </Values>
+                    </DataContainer>
+                </MultiDataContainer>
+            </DataContainers>
+        </Product>
+    </Products>
+</STEP-ProductInformation>

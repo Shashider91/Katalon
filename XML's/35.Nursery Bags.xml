@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation  ContextID="en-NZ" WorkspaceID="Main" UseContextLocale="false">
+    <Products>
+        <Product UserTypeID="PPH_BasicItem" ParentID="PPH_L4_105709">
+            <Name></Name>
+            <ClassificationReference Type="Product_To_BrandHierarchy">
+                <KeyValue KeyID="KEY_Brand"></KeyValue>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="MERCH_L5_1308" Type="Product_To_MerchandiseHierarchy"/>
+            <ClassificationCrossReference ClassificationID="WSLHierarchy" Type="WSLOnlineDetails">
+                <MetaData>
+                    <Value AttributeID="AT_ProductDescriptionWebstore"></Value>
+                    <Value AttributeID="AT_OnlineDeliveryMinimumDays"></Value>
+                    <Value AttributeID="AT_SoldOnlineIndicator" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliveryMaximumDays"></Value>
+                    <Value AttributeID="AT_WebEnabled" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliverySizeOverride" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliverySizeDefault" ID=""/>
+                    <Value AttributeID="AT_WebItemSku"></Value>
+                    <Value AttributeID="AT_WebExpiryDate"></Value>
+                    <Value AttributeID="AT_FeaturesAndBenefits"></Value>
+                    <Value AttributeID="AT_ClickAndCollectFlag" ID=""/>
+                    <Value AttributeID="AT_WebClearanceIndicator" ID=""/>
+                    <Value AttributeID="AT_WebEffectiveDate"></Value>
+                </MetaData>
+            </ClassificationCrossReference>
+            <ClassificationCrossReference ClassificationID="TWLHierarchy" Type="TWLOnlineDetails">
+                <MetaData>
+                    <Value AttributeID="AT_ProductDescriptionWebstore"></Value>
+                    <Value AttributeID="AT_OnlineDeliveryMinimumDays"></Value>
+                    <Value AttributeID="AT_SoldOnlineIndicator" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliveryMaximumDays"></Value>
+                    <Value AttributeID="AT_WebEnabled" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliverySizeOverride" ID=""/>
+                    <Value AttributeID="AT_OnlineDeliverySizeDefault" ID=""/>
+                    <Value AttributeID="AT_WebItemSku"></Value>
+                    <Value AttributeID="AT_WebExpiryDate"></Value>
+                    <Value AttributeID="AT_FeaturesAndBenefits"></Value>
+                    <Value AttributeID="AT_ClickAndCollectFlag" ID=""/>
+                    <Value AttributeID="AT_WebClearanceIndicator" ID=""/>
+                    <Value AttributeID="AT_WebEffectiveDate"></Value>
+                </MetaData>
+            </ClassificationCrossReference>
+            <Values>
+                <!-- Start Core Attributes-->
+                <Value AttributeID="AT_ProductName"></Value>
+                <Value AttributeID="AT_ProductShortName"></Value>
+                <Value AttributeID="AT_DangerousGoodsTransportIndicator" ID=""/>
+                <Value AttributeID="AT_InStoreEndDate"></Value>
+                <Value AttributeID="AT_InStoreStartDate"></Value>
+                <Value AttributeID="AT_ParallelImportCode" ID=""/>
+                <Value AttributeID="AT_PreOrderAvailable" ID=""/>
+                <Value AttributeID="AT_ProductImageURLIndicator" ID=""/>
+                <Value AttributeID="AT_SupplierCode"></Value>
+                <Value AttributeID="AT_HighRiskIndicator" ID=""/>
+                <Value AttributeID="AT_PackagingFormat" ID=""/>
+                <Value AttributeID="AT_RecallStatus" ID=""/>
+                <Value AttributeID="AT_ProductStatus" ID=""/>
+                <Value AttributeID="AT_ShippingProductDepth" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_ShippingProductHeight" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_ShippingProductVolume" UnitID="unece.unit.MTQ"></Value>
+                <Value AttributeID="AT_ShippingProductWeight" UnitID="unece.unit.KGM"></Value>
+                <Value AttributeID="AT_ShippingProductWidth" UnitID="unece.unit.MMT"></Value>
+                <Value AttributeID="AT_TUIProductKey"></Value>
+                <Value AttributeID="AT_TUIItemKey"></Value>
+                <!-- End Core Attributes-->
+                <!-- Start Nursery Bags Category Specific Attributes-->
+                <MultiValue AttributeID="AT_Character">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_License">
+                    <Value ID=""/>
+                </MultiValue>
+                <MultiValue AttributeID="AT_Size">
+                    <Value ID=""/>
+                </MultiValue>
+                 <!-- End Nursery Bags Category Specific Attributes-->
+            </Values>
+            <DataContainers>
+                <MultiDataContainer Type="DC_BarcodeType">
+                    <DataContainer ID="">
+                        <Values>
+                            <!-- Datacontainer Attributes-->
+                            <Value AttributeID="AT_ProductBarcode"></Value>
+                            <Value AttributeID="AT_BarcodeType" ID=""/>
+                            <Value AttributeID="AT_ProductBarcodeNumber"></Value>
+                            <Value AttributeID="AT_BarcodeFormat" ID=""/>
+                        </Values>
+                    </DataContainer>
+                </MultiDataContainer>
+            </DataContainers>
+        </Product>
+    </Products>
+</STEP-ProductInformation>

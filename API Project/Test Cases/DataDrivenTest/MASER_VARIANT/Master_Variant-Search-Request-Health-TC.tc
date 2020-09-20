@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Master_Variant-Search-Request-Health-TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e47846d-10dc-455a-b391-afeb33e247a4</testCaseGuid>
+   <variable>
+      <defaultValue>'TVITEM HEALTH'</defaultValue>
+      <description></description>
+      <id>950e6f95-dde5-45dc-86d2-776d1287a2c6</id>
+      <masked>false</masked>
+      <name>MV_Name</name>
+   </variable>
+</TestCaseEntity>
